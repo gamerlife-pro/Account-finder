@@ -1,0 +1,6 @@
+{
+  "name": "X Account Finder",
+  "description": "Discover top Twitter/X creators and influencers across any niche with advanced filtering, engagement insights, and visual growth analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
